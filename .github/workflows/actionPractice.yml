@@ -32,6 +32,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Ending workflow message
         run: |
-            echo "Now ending build workflow."
-            echo "Have a great day!"
+              echo "Now ending build workflow."
+              echo "Have a great day!"
 
